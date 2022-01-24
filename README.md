@@ -1,13 +1,13 @@
 <h1 align="center">Hello 👋, My name is Pyry</h1>
 <h3 align="center">A freelance developer from Finland</h3>
 
-<p align="left"> <a href="https://twitter.com/rannikkopyry" target="blank"><img src="https://img.shields.io/twitter/follow/rannikkopyry?logo=twitter&style=for-the-badge" alt="rannikkopyry" /></a> </p>
+<p align="left"> <a href="https://twitter.com/pyryrannikko" target="blank"><img src="https://img.shields.io/twitter/follow/pyryrannikko?logo=twitter&style=for-the-badge" alt="pyryrannikko" /></a> </p>
 
-- 🔭 I’m currently working on [Biathlon24.com](www.biathlon24.com)
+- 🔭 I’m currently working on [Biathlon24.com](https://www.biathlon24.com/)
 
-- 👨‍💻 My website [www.purecode.fi](www.purecode.fi)
+- 👨‍💻 My website [https://www.purecode.fi/](https://www.purecode.fi/)
 
-- 💻My company's website [www.rpsolutions.tech](www.rpsolutions.tech)
+- 💻My company's website [https://rpsolutions.tech/](https://rpsolutions.tech/)
 
 - 💬 Ask me about **React, JS/TS or any webdev stuff**
 
@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rannikkopyry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rannikkopyry" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pyry rannikko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pyry rannikko" height="30" width="40" /></a>
+<a href="https://twitter.com/pyryrannikko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pyryrannikko" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pyry-rannikko-770368217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pyry-rannikko-770368217" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15802690" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15802690" height="30" width="40" /></a>
 <a href="https://instagram.com/rannikkopyry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rannikkopyry" height="30" width="40" /></a>
 </p>
